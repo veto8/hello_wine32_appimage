@@ -6,7 +6,7 @@
 
 ## Requirements for Debian
 ```
-apt-get install git wget fuse
+apt-get install git wget fuse libfuse2t64
 ```
 
 ## How to Install
